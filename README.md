@@ -11,7 +11,7 @@ The circuit uses an ATtiny412 to control four red LEDs, along with a Microchip M
 
 ![bikelight_pcb](img/bikelight_pcb.png)
 
-The circuit is designed to be milled on a single sided chunk of FR1 using a 1/64" end mill. If you use [mods](mods.cba.mit.edu), the three layer *.svg files (holes, outline, and traces) are in the /pcb directory.
+The circuit is designed to be milled on a single sided chunk of FR1 using a 1/64" end mill. If you use [mods](mods.cba.mit.edu), the three layer *.svg files (holes, outline, and traces) are in the /pcb directory. After assembling and programming with [pyupdi](https://github.com/mraardvark/pyupdi) and an FTDI cable, I masked off the USB jack and slide switch and sprayed it with a few coats of clear varnish.
 
 ![bikelight_pcb_img](img/bikelight_pcb_img.jpg)
 

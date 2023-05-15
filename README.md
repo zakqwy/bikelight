@@ -3,7 +3,7 @@
 
 It's a blinky red light for the back of my bike helmet.
 
-![bikelight](img/bikelight.mp4)
+![bikelight](img/bikelight.gif)
 
 The circuit uses an ATtiny412 to control four red LEDs, along with a Microchip MCP73831 lipo charge controller for battery management and a micro-USB jack for charging.
 
